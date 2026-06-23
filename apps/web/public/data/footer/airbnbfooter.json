@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "Support": [
+      {"id": 1, "title": "Help Center", "url": "https://www.airbnb.com/help/home?from=footer"},
+      {"id": 2, "title": "Get help with a safety issue", "url": "https://www.airbnb.com/help/contact-us?entry=DESKTOP_FOOTER_SAFETY"},
+      {"id": 3, "title": "AirCover", "url": "https://www.airbnb.com/aircover"},
+      {"id": 4, "title": "Travel insurance", "url": "https://www.airbnb.com/travelinsurance"},
+      {"id": 5, "title": "Anti-discrimination", "url": "https://www.airbnb.com/against-discrimination"},
+      {"id": 6, "title": "Disability support", "url": "https://www.airbnb.com/accessibility"},
+      {"id": 7, "title": "Cancellation options", "url": "https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19"},
+      {"id": 8, "title": "Report neighborhood concern", "url": "https://www.airbnb.com/neighbors"}
+    ]
+  },
+  {
+    "id": 2,
+    "Hosting": [
+      {"id": 1, "title": "Airbnb your home", "url": "https://www.airbnb.com/host/homes?from_footer=1"},
+      {"id": 2, "title": "Airbnb your experience", "url": "https://www.airbnb.com/host/experiences"},
+      {"id": 3, "title": "Airbnb your service", "url": "https://www.airbnb.com/host/services"},
+      {"id": 4, "title": "AirCover for Hosts", "url": "https://www.airbnb.com/aircover-for-hosts"},
+      {"id": 5, "title": "Hosting resources", "url": "https://www.airbnb.com/resources"},
+      {"id": 6, "title": "Community forum", "url": "https://community.withairbnb.com/t5/Community-Center/ct-p/community-center"},
+      {"id": 7, "title": "Hosting responsibly", "url": "https://www.airbnb.com/help/responsible-hosting"},
+      {"id": 8, "title": "Airbnb-friendly apartments", "url": "https://www.airbnb.com/airbnb-friendly"},
+      {"id": 9, "title": "Join a free hosting class", "url": "https://www.airbnb.com/e/intro-to-hosting"},
+      {"id": 10, "title": "Find a co-host", "url": "https://www.airbnb.com/host/co-hosts"},
+      {"id": 11, "title": "Refer a host", "url": "https://www.airbnb.com/refer"}
+    ]
+  },
+  {
+    "id": 3,
+    "Airbnb": [
+      {"id": 1, "title": "2026 Summer Release", "url": "https://www.airbnb.com/release"},
+      {"id": 2, "title": "Newsroom", "url": "https://www.airbnb.com/press/news"},
+      {"id": 3, "title": "Careers", "url": "https://www.airbnb.com/careers"},
+      {"id": 4, "title": "Investors", "url": "https://investors.airbnb.com/"},
+      {"id": 5, "title": "Gift cards", "url": "https://www.airbnb.com/giftcards"},
+      {"id": 6, "title": "Airbnb.org emergency stays", "url": "https://www.airbnb.org/?locale=en"}
+    ]
+  }
+]

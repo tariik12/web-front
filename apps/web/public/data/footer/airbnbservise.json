@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "section": "Popular homes in Kuala Lumpur",
+    "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice1.avif", "price_for_2_nights": "$271", "rating": 4.97, "guest_favorite": true},
+      {"id": 2, "type": "Condo", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice2.avif", "price_for_2_nights": "$96", "rating": 5.0, "guest_favorite": true},
+      {"id": 3, "type": "Bungalow", "location": "Petaling Jaya", "file":"./asset/service/airbnbservice3.avif", "price_for_2_nights": "$1,051", "rating": 5.0, "guest_favorite": false},
+      {"id": 4, "type": "Home", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice4.avif", "price_for_2_nights": "$282", "rating": 4.92, "guest_favorite": true},
+      {"id": 5, "type": "Home", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice5.avif", "price_for_2_nights": "$260", "rating": 5.0, "guest_favorite": true},
+      {"id": 6, "type": "Apartment", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice6.avif", "price_for_2_nights": "$303", "rating": 4.91, "guest_favorite": true},
+      {"id": 7, "type": "Apartment", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice7.avif", "price_for_2_nights": "$159", "rating": 5.0, "guest_favorite": true},
+      {"id": 8, "type": "Condo", "location": "Kuala Lumpur", "file":"./asset/service/airbnbservice8.avif", "price_for_2_nights": "$159", "rating": 5.0, "guest_favorite": true},
+      {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice9.avif","./asset/service/airbnbservice10.avif","./asset/service/airbnbservice11.avif"]}
+    ]
+  },
+  {
+    "id": 2,
+    "section": "Great hotels for your next trip",
+    "listings": [
+      {"id": 1, "type": "Hotel", "location": "Vivaldi Hotel", "file":"./asset/service/airbnbservice12.avif", "price_for_2_nights": "$202", "rating": 4.69, "guest_favorite": true},
+      {"id": 2, "type": "Hotel", "location": "Staycity Aparthotels Paris La Defense", "file":"./asset/service/airbnbservice13.avif", "price_for_2_nights": "$242", "rating": 5.0, "guest_favorite": false},
+      {"id": 3, "type": "Hotel", "location": "Hotel Joyce - Astotel", "file":"./asset/service/airbnbservice14.avif", "price_for_2_nights": "$419", "rating": 4.87, "guest_favorite": false},
+      {"id": 4, "type": "Hotel", "location": "Korner Saint-Marcel", "file":"./asset/service/airbnbservice15.avif", "price_for_2_nights": "$319", "rating": 4.65, "guest_favorite": false},
+      {"id": 5, "type": "Hotel", "location": "Hotel Monterosa - Astotel", "file":"./asset/service/airbnbservice16.avif", "price_for_2_nights": "$400", "rating": 4.79, "guest_favorite": true},
+      {"id": 6, "type": "Hotel", "location": "Hôtel Le Richemont", "file":"./asset/service/airbnbservice17.avif", "price_for_2_nights": "$336", "rating": 4.67, "guest_favorite": false},
+      {"id": 7, "type": "Hotel", "location": "Hotel Joke - Astotel", "file":"./asset/service/airbnbservice18.avif", "price_for_2_nights": "$429", "rating": 4.85, "guest_favorite": false},
+      {"id": 8, "type": "Hotel", "location": "Hotel Lorette - Astotel", "file":"./asset/service/airbnbservice19.avif", "price_for_2_nights": "$294", "rating": 4.78, "guest_favorite": false},
+          {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice20.avif","./asset/service/airbnbservice21.avif","./asset/service/airbnbservice22.avif"]}
+
+    ]
+  },
+  {
+    "id": 3,
+    "section": "Available next month in Bangkok",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "Yan Nawa", "file":"./asset/service/airbnbservice23.avif", "price_for_2_nights": "$89", "rating": 5.0, "guest_favorite": true},
+      {"id": 2, "type": "Apartment", "location": "Khlong Toei", "file":"./asset/service/airbnbservice24.avif", "price_for_2_nights": "$101", "rating": 4.95, "guest_favorite": true},
+      {"id": 3, "type": "Room", "location": "Khet Phaya Thai", "file":"./asset/service/airbnbservice25.avif", "price_for_2_nights": "$40", "rating": 4.9, "guest_favorite": true},
+      {"id": 4, "type": "Home", "location": "Thon Buri", "file":"./asset/service/airbnbservice26.avif", "price_for_2_nights": "$107", "rating": 5.0, "guest_favorite": true},
+      {"id": 5, "type": "Home", "location": "Khlong Toei", "file":"./asset/service/airbnbservice27.avif", "price_for_2_nights": "$75", "rating": 4.98, "guest_favorite": true},
+      {"id": 6, "type": "Apartment", "location": "Sathon", "file":"./asset/service/airbnbservice28.avif", "price_for_2_nights": "$222", "rating": 5.0, "guest_favorite": true},
+      {"id": 7, "type": "Apartment", "location": "Bangkok", "file":"./asset/service/airbnbservice29.avif", "price_for_2_nights": "$58", "rating": 4.82, "guest_favorite": false},
+      {"id": 8, "type": "Home", "location": "Khet Suan Luang", "file":"./asset/service/airbnbservice30.avif", "price_for_2_nights": "$275", "rating": 4.9, "guest_favorite": true},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice31.avif","./asset/service/airbnbservice32.avif","./asset/service/airbnbservice33.avif"]}
+
+    ]
+  },
+  {
+    "id": 4,
+    "section": "Stay in Kolkata",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "Kolkata", "file":"./asset/service/airbnbservice34.avif", "price_for_2_nights": "$103", "rating": 5.0, "guest_favorite": true},
+      {"id": 2, "type": "Condo", "location": "Kolkata", "file":"./asset/service/airbnbservice35.avif", "price_for_2_nights": "$53", "rating": 4.89, "guest_favorite": true},
+      {"id": 3, "type": "Room", "location": "Salt Lake City", "file":"./asset/service/airbnbservice36.avif", "price_for_2_nights": "$58", "rating": 4.94, "guest_favorite": true},
+      {"id": 4, "type": "Condo", "location": "Kolkata", "file":"./asset/service/airbnbservice37.avif", "price_for_2_nights": "$78", "rating": 4.91, "guest_favorite": true},
+      {"id": 5, "type": "Apartment", "location": "Kolkata", "file":"./asset/service/airbnbservice38.avif", "price_for_2_nights": "$119", "rating": 5.0, "guest_favorite": true},
+      {"id": 6, "type": "Room", "location": "Salt Lake City", "file":"./asset/service/airbnbservice39.avif", "price_for_2_nights": "$46", "rating": 4.91, "guest_favorite": true},
+      {"id": 7, "type": "Home", "location": "Ballygunge", "file":"./asset/service/airbnbservice40.avif", "price_for_2_nights": "$150", "rating": 5.0, "guest_favorite": true},
+      {"id": 8, "type": "Apartment", "location": "Ballygunge", "file":"./asset/service/airbnbservice41.avif", "price_for_2_nights": "$106", "rating": 4.94, "guest_favorite": true},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice42.avif","./asset/service/airbnbservice43.avif","./asset/service/airbnbservice44.avif"]}
+
+    ]
+  },
+  {
+    "id": 5,
+    "section": "Available next month in George Town",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice45.avif", "price_for_2_nights": "$148", "rating": 4.81, "guest_favorite": false},
+      {"id": 2, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice46.avif", "price_for_2_nights": "$105", "rating": 4.97, "guest_favorite": true},
+      {"id": 3, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice47.avif", "price_for_2_nights": "$193", "rating": 4.92, "guest_favorite": false},
+      {"id": 4, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice48.avif", "price_for_2_nights": "$196", "rating": 5.0, "guest_favorite": true},
+      {"id": 5, "type": "Guesthouse", "location": "George Town", "file":"./asset/service/airbnbservice49.avif", "price_for_2_nights": "$66", "rating": 4.89, "guest_favorite": true},
+      {"id": 6, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice50.avif", "price_for_2_nights": "$173", "rating": 4.9, "guest_favorite": false},
+      {"id": 7, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice51.avif", "price_for_2_nights": "$167", "rating": 4.92, "guest_favorite": true},
+      {"id": 8, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice52.avif", "price_for_2_nights": "$90", "rating": 4.78, "guest_favorite": false},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice53.avif","./asset/service/airbnbservice54.avif","./asset/service/airbnbservice55.avif"]}
+
+    ]
+  },
+  {
+    "id": 6,
+    "section": "Homes in Toronto",
+    "listings": [
+      {"id": 1, "type": "Room", "location": "Toronto", "file":"./asset/service/airbnbservice56.avif", "price_for_2_nights": "$185", "rating": 4.86, "guest_favorite": true},
+      {"id": 2, "type": "Place to stay", "location": "Toronto", "file":"./asset/service/airbnbservice57.avif", "price_for_2_nights": "$180", "rating": 5.0, "guest_favorite": true},
+      {"id": 3, "type": "Place to stay", "location": "Toronto", "file":"./asset/service/airbnbservice58.avif", "price_for_2_nights": "$70", "rating": 5.0, "guest_favorite": true},
+      {"id": 4, "type": "Room", "location": "North York", "file":"./asset/service/airbnbservice59.avif", "price_for_2_nights": "$196", "rating": 4.96, "guest_favorite": true},
+      {"id": 5, "type": "Room", "location": "Toronto", "file":"./asset/service/airbnbservice60.avif", "price_for_2_nights": "$227", "rating": 4.93, "guest_favorite": true},
+      {"id": 6, "type": "Place to stay", "location": "Toronto", "file":"./asset/service/airbnbservice61.avif", "price_for_2_nights": "$106", "rating": 4.93, "guest_favorite": true},
+      {"id": 7, "type": "Place to stay", "location": "Toronto", "file":"./asset/service/airbnbservice62.avif", "price_for_2_nights": "$180", "rating": 4.77, "guest_favorite": false},
+      {"id": 8, "type": "Room", "location": "Toronto", "file":"./asset/service/airbnbservice63.avif", "price_for_2_nights": "$162", "rating": 4.87, "guest_favorite": false},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice64.avif","./asset/service/airbnbservice66.avif","./asset/service/airbnbservice67.avif"]}
+
+    ]
+  },
+  {
+    "id": 7,
+    "section": "Places to stay in Pattaya City",
+    "listings": [
+      {"id": 1, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice68.avif", "price_for_2_nights": "$607", "rating": 5.0, "guest_favorite": true},
+      {"id": 2, "type": "Condo", "location": "Pattaya", "file":"./asset/service/airbnbservice69.avif", "price_for_2_nights": "$70", "rating": 4.8, "guest_favorite": true},
+      {"id": 3, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice70.avif", "price_for_2_nights": "$452", "rating": 5.0, "guest_favorite": false},
+      {"id": 4, "type": "Villa", "location": "Pattaya", "file":"./asset/service/airbnbservice71.avif", "price_for_2_nights": "$628", "rating": 4.89, "guest_favorite": true},
+      {"id": 5, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice.av72if", "price_for_2_nights": "$438", "rating": 5.0, "guest_favorite": true},
+      {"id": 6, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice73.avif", "price_for_2_nights": "$185", "rating": 4.87, "guest_favorite": false},
+      {"id": 7, "type": "Villa", "location": "Pattaya", "file":"./asset/service/airbnbservice74.avif", "price_for_2_nights": "$633", "rating": 5.0, "guest_favorite": false},
+      {"id": 8, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice75.avif", "price_for_2_nights": "$627", "rating": 5.0, "guest_favorite": true},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice76.avif","./asset/service/airbnbservice77.avif","./asset/service/airbnbservice78.avif"]}
+
+    ]
+  },
+  {
+    "id": 8,
+    "section": "Check out homes in Dubai",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "Marsa Dubai", "file":"./asset/service/airbnbservice79.avif", "price_for_2_nights": "$510", "rating": 5.0, "guest_favorite": true},
+      {"id": 2, "type": "Apartment", "location": "Business Bay", "file":"./asset/service/airbnbservice80.avif", "price_for_2_nights": "$225", "rating": 5.0, "guest_favorite": true},
+      {"id": 3, "type": "Apartment", "location": "Burj Khalifa", "file":"./asset/service/airbnbservice81.avif", "price_for_2_nights": "$570", "rating": 4.98, "guest_favorite": true},
+      {"id": 4, "type": "Apartment", "location": "Burj Khalifa", "file":"./asset/service/airbnbservice82.avif", "price_for_2_nights": "$152", "rating": 4.9, "guest_favorite": false},
+      {"id": 5, "type": "Apartment", "location": "Burj Khalifa", "file":"./asset/service/airbnbservice83.avif", "price_for_2_nights": "$142", "rating": 4.86, "guest_favorite": true},
+      {"id": 6, "type": "Apartment", "location": "Burj Khalifa", "file":"./asset/service/airbnbservice84.avif", "price_for_2_nights": "$877", "rating": 5.0, "guest_favorite": true},
+      {"id": 7, "type": "Apartment", "location": "Al-Waṣl", "file":"./asset/service/airbnbservice85.avif", "price_for_2_nights": "$726", "rating": 5.0, "guest_favorite": false},
+      {"id": 8, "type": "Apartment", "location": "Burj Khalifa", "file":"./asset/service/airbnbservice86.avif", "price_for_2_nights": "$282", "rating": 5.0, "guest_favorite": true},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice87.avif","./asset/service/airbnbservice88.avif","./asset/service/airbnbservice89.avif"]}
+
+    ]
+  },
+  {
+    "id": 9,
+    "section": "Popular homes in Langkawi Islands",
+    "listings": [
+      {"id": 1, "type": "Condo", "location": "Langkawi", "file":"./asset/service/airbnbservice90.avif", "price_for_2_nights": "$161", "rating": 4.93, "guest_favorite": true},
+      {"id": 2, "type": "Home", "location": "Langkawi", "file":"./asset/service/airbnbservice91.avif", "price_for_2_nights": "$421", "rating": 5.0, "guest_favorite": true},
+      {"id": 3, "type": "Villa", "location": "Langkawi Islands", "file":"./asset/service/airbnbservice92.avif", "price_for_2_nights": "$202", "rating": 4.85, "guest_favorite": false},
+      {"id": 4, "type": "Home", "location": "Langkawi", "file":"./asset/service/airbnbservice93.avif", "price_for_2_nights": "$202", "rating": 5.0, "guest_favorite": true},
+      {"id": 5, "type": "Home", "location": "Langkawi", "file":"./asset/service/airbnbservice94.avif", "price_for_2_nights": "$410", "rating": 5.0, "guest_favorite": true},
+      {"id": 6, "type": "Bungalow", "location": "Kuah", "file":"./asset/service/airbnbservice95.avif", "price_for_2_nights": "$893", "rating": 5.0, "guest_favorite": true},
+      {"id": 7, "type": "Apartment", "location": "Langkawi", "file":"./asset/service/airbnbservice96.avif", "price_for_2_nights": "$443", "rating": 4.94, "guest_favorite": true},
+      {"id": 8, "type": "Home", "location": "Langkawi", "file":"./asset/service/airbnbservice97.avif", "price_for_2_nights": "$553", "rating": 4.93, "guest_favorite": false},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice98.avif","./asset/service/airbnbservice99.avif","./asset/service/airbnbservice100.avif"]}
+
+    ]
+  },
+  {
+    "id": 10,
+    "section": "Stay in Paris",
+    "listings": [
+      {"id": 1, "type": "Apartment", "location": "20th Arrondissement", "file":"./asset/service/airbnbservice101.avif", "price_for_2_nights": "$251", "rating": 5.0, "guest_favorite": true},
+      {"id": 2, "type": "Place to stay", "location": "6th Arrondissement", "file":"./asset/service/airbnbservice102.avif", "price_for_2_nights": "$330", "rating": 4.91, "guest_favorite": true},
+      {"id": 3, "type": "Room", "location": "4th Arrondissement", "file":"./asset/service/airbnbservice103.avif", "price_for_2_nights": "$191", "rating": 4.94, "guest_favorite": true},
+      {"id": 4, "type": "Room", "location": "13th Arrondissement", "file":"./asset/service/airbnbservice104.avif", "price_for_2_nights": "$159", "rating": 4.93, "guest_favorite": true},
+      {"id": 5, "type": "Bed and breakfast", "location": "15th Arrondissement", "file":"./asset/service/airbnbservice105.avif", "price_for_2_nights": "$320", "rating": 5.0, "guest_favorite": true},
+      {"id": 6, "type": "Apartment", "location": "17th Arrondissement", "file":"./asset/service/airbnbservice106.avif", "price_for_2_nights": "$575", "rating": 5.0, "guest_favorite": true},
+      {"id": 7, "type": "Apartment", "location": "Montmartre", "file":"./asset/service/airbnbservice107.avif", "price_for_2_nights": "$382", "rating": 5.0, "guest_favorite": true},
+      {"id": 8, "type": "Room", "location": "6th Arrondissement", "file":"./asset/service/airbnbservice108.avif", "price_for_2_nights": "$285", "rating": 4.98, "guest_favorite": true},
+            {"id": 9, "title":"See all", "file":["./asset/service/airbnbservice109.avif","./asset/service/airbnbservice110.avif","./asset/service/airbnbservice111.avif"]}
+
+    ]
+  }
+]
