@@ -1,6 +1,6 @@
 const Container  = ({children}:any) =>{
     return(
-        <div className="px-[44px] mx-auto max-w-[1440px]">
+        <div className="px-[44px] mx-auto bg-[#F7F7F7]">
 {children}
         </div>
     )

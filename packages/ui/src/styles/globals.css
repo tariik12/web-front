@@ -7,7 +7,13 @@
 @source "../../../apps/**/*.{ts,tsx}";
 @source "../../../components/**/*.{ts,tsx}"; 
 @source "../**/*.{ts,tsx}";
-
+@font-face {
+    font-family: 'Airbnb Cereal VF';
+    src: url(https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_W_Wght.8816d9e….woff2) format('woff2 supports variations'), url(https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_W_Wght.8816d9e….woff2) format('woff2-variations');
+    font-style: normal;
+    unicode-range: U +0000 -03FF, U +0500 -058F, U +0700 -074F, U +0780 -FAFF, U + FE00-FE6F, U + FF00-EFFFF, U + FFFFE-10FFFF;
+    font-display: swap;
+}
 @theme inline {
     --font-heading: var(--font-sans);
     --color-sidebar-ring: var(--sidebar-ring);
@@ -125,6 +131,6 @@
     @apply border-border outline-ring/50;
     }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-family:"Airbnb Cereal VF";
     }
 }

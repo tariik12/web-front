@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "Popular": [
+    "title":"Popular",
+    "child": [
       {"id": 1, "title": "Galveston", "description": "Villa rentals"},
       {"id": 2, "title": "Portland", "description": "Condo rentals"},
       {"id": 3, "title": "Minneapolis", "description": "Condo rentals"},
@@ -105,7 +106,8 @@
   },
   {
     "id": 2,
-    "Arts & Culture": [
+    "title":"Arts & Culture",
+    "child": [
       {"id": 1, "title": "Lake Wawasee", "description": "House rentals"},
       {"id": 2, "title": "Mohican State Park", "description": "Cottage rentals"},
       {"id": 3, "title": "Samara Beach", "description": "Apartment rentals"},
@@ -208,7 +210,8 @@
   },
   {
     "id": 3,
-    "Beach": [
+    "title":"Beach",
+    "child": [
       {"id": 1, "title": "Carmel Beach", "description": "Vacation rentals"},
       {"id": 2, "title": "Belmar Beach", "description": "Apartment rentals"},
       {"id": 3, "title": "Long Branch Beach", "description": "Vacation rentals"},
@@ -312,7 +315,8 @@
   },
   {
     "id": 4,
-    "Mountains": [
+    "title":"Mountains",
+    "child": [
       {"id": 1, "title": "Whitefish", "description": "Condo rentals"},
       {"id": 2, "title": "Waynesville", "description": "Vacation rentals"},
       {"id": 3, "title": "Pigeon Forge", "description": "Cabin rentals"},
@@ -416,7 +420,8 @@
   },
   {
     "id": 5,
-    "Outdoors": [
+    "title":"Outdoors",
+    "child": [
       {"id": 1, "title": "Grindelwald", "description": "Apartment rentals"},
       {"id": 2, "title": "Kihei", "description": "Apartment rentals"},
       {"id": 3, "title": "Medford", "description": "Cabin rentals"},
@@ -520,7 +525,8 @@
   },
   {
     "id": 6,
-    "Things to do": [
+    "title":"Things to do",
+    "child": [
       {"id": 1, "title": "Durham", "description": "Food and drink"},
       {"id": 2, "title": "Apennine Mountains", "description": "Art and culture"},
       {"id": 3, "title": "Norfolk", "description": "Sports activities"},
@@ -624,7 +630,8 @@
   },
   {
     "id": 7,
-    "Travel tips & inspiration": [
+    "title":"Travel tips & inspiration",
+    "child": [
       {"id": 1, "title": "Family travel hub", "description": "Tips and inspiration"},
       {"id": 2, "title": "Family budget travel", "description": "Get there for less"},
       {"id": 3, "title": "Vacation ideas for any budget", "description": "Make it special without making it spendy"},
@@ -636,7 +643,8 @@
   },
   {
     "id": 8,
-    "Airbnb-friendly apartments": [
+    "title":"Airbnb-friendly apartments",
+    "child": [
       {"id": 1, "title": "Albuquerque", "description": "New Mexico"},
       {"id": 2, "title": "Arlington, TX", "description": "Texas"},
       {"id": 3, "title": "Atlanta Metro", "description": "Georgia"},
