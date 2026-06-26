@@ -8,11 +8,38 @@
 @source "../../../components/**/*.{ts,tsx}"; 
 @source "../**/*.{ts,tsx}";
 @font-face {
-    font-family: 'Airbnb Cereal VF';
-    src: url(https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_W_Wght.8816d9e….woff2) format('woff2 supports variations'), url(https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/cereal-variable/AirbnbCerealVF_W_Wght.8816d9e….woff2) format('woff2-variations');
-    font-style: normal;
-    unicode-range: U +0000 -03FF, U +0500 -058F, U +0700 -074F, U +0780 -FAFF, U + FE00-FE6F, U + FF00-EFFFF, U + FFFFE-10FFFF;
-    font-display: swap;
+  font-family: "Airbnb Cereal VF";
+  src: url("/font/AirbnbCerealApp-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Airbnb Cereal VF";
+  src: url("/font/AirbnbCerealApp-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Airbnb Cereal VF";
+  src: url("/font/AirbnbCerealApp-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Airbnb Cereal VF";
+  src: url("/font/AirbnbCerealApp-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Airbnb Cereal VF";
+  src: url("/font/AirbnbCerealApp-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
 }
 @theme inline {
     --font-heading: var(--font-sans);
@@ -54,8 +81,8 @@
     --radius-2xl: calc(var(--radius) * 1.8);
     --radius-3xl: calc(var(--radius) * 2.2);
     --radius-4xl: calc(var(--radius) * 2.6);
-    --font-sans: 'Geist Variable', sans-serif;
-}
+    --font-sans: 'Geist Variable' , sans-serif;
+    --font-airbnb:   "Airbnb Cereal VF",   Circular,   -apple-system, BlinkMacSystemFont, Roboto,  "Helvetica Neue",  sans-serif;}
 
 :root {
     --background: oklch(1 0 0);
@@ -90,6 +117,8 @@
     --sidebar-accent-foreground: oklch(0.205 0 0);
     --sidebar-border: oklch(0.922 0 0);
     --sidebar-ring: oklch(0.708 0 0);
+      --font-aibrnb: "Airbnb Cereal VF", sans-serif;
+
 }
 
 .dark {
@@ -131,6 +160,7 @@
     @apply border-border outline-ring/50;
     }
   body {
-    @apply bg-background text-foreground font-family:"Airbnb Cereal VF";
+    @apply bg-background text-foreground;
+     font-family: var(--font-airbnb) ;
     }
 }

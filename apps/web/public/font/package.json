@@ -1,0 +1,15 @@
+{
+  "name": "airbnbcereal",
+  "version": "1.1.0",
+  "description": "Airbnb's cereal font",
+  "main": "stylesheet.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "airbnb",
+    "cereal"
+  ],
+  "author": "Arthur Guiot",
+  "license": "MIT"
+}

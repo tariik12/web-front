@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "Support": [
+    "title":"Support",
+    "child": [
       {"id": 1, "title": "Help Center", "url": "https://www.airbnb.com/help/home?from=footer"},
       {"id": 2, "title": "Get help with a safety issue", "url": "https://www.airbnb.com/help/contact-us?entry=DESKTOP_FOOTER_SAFETY"},
       {"id": 3, "title": "AirCover", "url": "https://www.airbnb.com/aircover"},
@@ -14,7 +15,8 @@
   },
   {
     "id": 2,
-    "Hosting": [
+    "title":"Hosting",
+    "child": [
       {"id": 1, "title": "Airbnb your home", "url": "https://www.airbnb.com/host/homes?from_footer=1"},
       {"id": 2, "title": "Airbnb your experience", "url": "https://www.airbnb.com/host/experiences"},
       {"id": 3, "title": "Airbnb your service", "url": "https://www.airbnb.com/host/services"},
@@ -30,7 +32,8 @@
   },
   {
     "id": 3,
-    "Airbnb": [
+    "title":"Airbnb",
+    "child": [
       {"id": 1, "title": "2026 Summer Release", "url": "https://www.airbnb.com/release"},
       {"id": 2, "title": "Newsroom", "url": "https://www.airbnb.com/press/news"},
       {"id": 3, "title": "Careers", "url": "https://www.airbnb.com/careers"},
