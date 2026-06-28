@@ -20,6 +20,9 @@
   {
     "id": 2,
     "section": "Great hotels for your next trip",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Hotel", "location": "Vivaldi Hotel", "file":"./asset/service/airbnbservice12.avif", "price_for_2_nights": "$202", "rating": 4.69, "guest_favorite": true},
       {"id": 2, "type": "Hotel", "location": "Staycity Aparthotels Paris La Defense", "file":"./asset/service/airbnbservice13.avif", "price_for_2_nights": "$242", "rating": 5.0, "guest_favorite": false},
@@ -36,6 +39,9 @@
   {
     "id": 3,
     "section": "Available next month in Bangkok",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Apartment", "location": "Yan Nawa", "file":"./asset/service/airbnbservice23.avif", "price_for_2_nights": "$89", "rating": 5.0, "guest_favorite": true},
       {"id": 2, "type": "Apartment", "location": "Khlong Toei", "file":"./asset/service/airbnbservice24.avif", "price_for_2_nights": "$101", "rating": 4.95, "guest_favorite": true},
@@ -52,6 +58,9 @@
   {
     "id": 4,
     "section": "Stay in Kolkata",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Apartment", "location": "Kolkata", "file":"./asset/service/airbnbservice34.avif", "price_for_2_nights": "$103", "rating": 5.0, "guest_favorite": true},
       {"id": 2, "type": "Condo", "location": "Kolkata", "file":"./asset/service/airbnbservice35.avif", "price_for_2_nights": "$53", "rating": 4.89, "guest_favorite": true},
@@ -68,6 +77,9 @@
   {
     "id": 5,
     "section": "Available next month in George Town",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice45.avif", "price_for_2_nights": "$148", "rating": 4.81, "guest_favorite": false},
       {"id": 2, "type": "Apartment", "location": "George Town", "file":"./asset/service/airbnbservice46.avif", "price_for_2_nights": "$105", "rating": 4.97, "guest_favorite": true},
@@ -84,6 +96,9 @@
   {
     "id": 6,
     "section": "Homes in Toronto",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Room", "location": "Toronto", "file":"./asset/service/airbnbservice56.avif", "price_for_2_nights": "$185", "rating": 4.86, "guest_favorite": true},
       {"id": 2, "type": "Place to stay", "location": "Toronto", "file":"./asset/service/airbnbservice57.avif", "price_for_2_nights": "$180", "rating": 5.0, "guest_favorite": true},
@@ -100,6 +115,9 @@
   {
     "id": 7,
     "section": "Places to stay in Pattaya City",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Home", "location": "Pattaya", "file":"./asset/service/airbnbservice68.avif", "price_for_2_nights": "$607", "rating": 5.0, "guest_favorite": true},
       {"id": 2, "type": "Condo", "location": "Pattaya", "file":"./asset/service/airbnbservice69.avif", "price_for_2_nights": "$70", "rating": 4.8, "guest_favorite": true},
@@ -116,6 +134,9 @@
   {
     "id": 8,
     "section": "Check out homes in Dubai",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Apartment", "location": "Marsa Dubai", "file":"./asset/service/airbnbservice79.avif", "price_for_2_nights": "$510", "rating": 5.0, "guest_favorite": true},
       {"id": 2, "type": "Apartment", "location": "Business Bay", "file":"./asset/service/airbnbservice80.avif", "price_for_2_nights": "$225", "rating": 5.0, "guest_favorite": true},
@@ -132,6 +153,9 @@
   {
     "id": 9,
     "section": "Popular homes in Langkawi Islands",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Condo", "location": "Langkawi", "file":"./asset/service/airbnbservice90.avif", "price_for_2_nights": "$161", "rating": 4.93, "guest_favorite": true},
       {"id": 2, "type": "Home", "location": "Langkawi", "file":"./asset/service/airbnbservice91.avif", "price_for_2_nights": "$421", "rating": 5.0, "guest_favorite": true},
@@ -148,6 +172,9 @@
   {
     "id": 10,
     "section": "Stay in Paris",
+     "title_arrow_icon":"./asset/common/right-arrow-long.svg",
+    "right_arrow_icon":"./asset/common/rightarrow.svg",
+    "left_arrow_icon":"./asset/common/leftarrow.svg",
     "listings": [
       {"id": 1, "type": "Apartment", "location": "20th Arrondissement", "file":"./asset/service/airbnbservice101.avif", "price_for_2_nights": "$251", "rating": 5.0, "guest_favorite": true},
       {"id": 2, "type": "Place to stay", "location": "6th Arrondissement", "file":"./asset/service/airbnbservice102.avif", "price_for_2_nights": "$330", "rating": 4.91, "guest_favorite": true},

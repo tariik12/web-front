@@ -1,13 +1,15 @@
 import Footer from "@/components/footer/Footer"
-import Container from "@workspace/ui/components/container"
+import Services from "./components/services/services"
 
 const Layout = () =>{
 
     return(
-<Container>
+        <div>
 
+<Services />
 <Footer />
-</Container>
+        </div>
+
     )
 }
 

@@ -5,13 +5,15 @@ import f from '../../../public/asset/footer/f.svg'
 import ins from '../../../public/asset/footer/in.svg'
 import x from '../../../public/asset/footer/x.svg'
 import g from '../../../public/asset/navigation/global.svg'
+import Container from "@workspace/ui/components/container";
 const Footer =() =>{
 
 
     return(
 
-        <div className="pt-[48px] pb-[80px]">
-            {/* Footer Title */}
+        <div className="pt-[48px] pb-[80px] bg-[#F7F7F7]">
+            <Container>
+ {/* Footer Title */}
             <h2 className=" text-[#222222] text-[22px] font-medium mb-[4px] font-airbnb tracking-[-0.44px]">Inspiration for future getaways</h2>
             <FooterInspiration/>
             <FooterSupport/>
@@ -45,8 +47,12 @@ const Footer =() =>{
             <img className="w-[16px]  h-[16px]" src={ins} alt="" />
             </div>
             </div>
+
+        
         </div>
         </div>
+            </Container>
+           
             </div>
     )
 }
