@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title":"All",
+        "media":"/asset/navigation/global.avif"
+    },
+    {
+        "id":"2",
+        "title":"Homes",
+        "media":"/asset/navigation/homes1.avif"
+    },
+    {
+        "id":"3",
+        "title":"Experiences",
+        "media":"/asset/navigation/experience.avif"
+    },
+    {
+        "id":"4",
+        "title":"Services",
+        "media":"/asset/navigation/services.avif"
+    }
+    
+]

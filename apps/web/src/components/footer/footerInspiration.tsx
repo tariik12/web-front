@@ -21,7 +21,7 @@ setSee(props? true:false)
    
 
       </TabsList>
-      <hr  className="-mt-2 mb-[33px]"/>
+      <hr  className="mt-1.5 mb-[33px]"/>
       {
         inspiration.map(inspir =>{
             const displayData = see? inspir.child: inspir.child?.slice(0,17);

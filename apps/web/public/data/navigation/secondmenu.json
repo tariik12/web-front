@@ -1,0 +1,21 @@
+[
+    {
+        "id":"1",
+        "title":"Where",
+        "subTitle":"Anywhere",
+        "media":"/public/asset/navigation/homes1.avif",
+        "description":"Search destinations"
+    },
+      {
+        "id":"2",
+        "title":"When",
+        "subTitle":"Anytime",
+        "description":"Add dates"
+    },
+      {
+        "id":"1",
+        "title":"Who",
+        "subTitle":"Add guests",
+        "description":"Add guests"
+    }
+]
