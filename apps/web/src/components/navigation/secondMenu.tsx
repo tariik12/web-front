@@ -1,6 +1,6 @@
 import { Search } from "lucide-react";
 import secondMenu from "../../../public/data/navigation/secondmenu.json"
-import { motion, useScroll, useMotionValueEvent } from "motion/react"
+import {  useScroll, useMotionValueEvent } from "motion/react"
 import { useState } from "react";
 
 const SecondMenu = () =>{

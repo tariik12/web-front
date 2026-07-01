@@ -1,7 +1,6 @@
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 import { Tabs as TabsPrimitive } from "radix-ui"
-import { motion } from "motion/react"
 
 import { cn } from "@workspace/ui/lib/utils"
 
